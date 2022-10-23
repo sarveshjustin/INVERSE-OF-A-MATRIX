@@ -14,6 +14,11 @@ Step 3: user inverse package to get the inverse of the matrix
 Step 4: print the statement
 
 ## Program:
+
+Developed by:sarvesh.s
+
+RegisterNumber: 22003029
+
 ```
 import numpy as np
 a = ([[2,1,1],[1,1,1],[1,-1,2]])
